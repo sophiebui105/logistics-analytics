@@ -52,6 +52,9 @@ A “what changed this month” view to surface the biggest movers:
 * A ranked table of **Top 15 current month revenue** with **3/6/12-month averages**
   **Use case:** quickly identify which accounts need celebration, investigation, or follow-up.
 
+  <img width="1912" height="1037" alt="top 15 revenue" src="https://github.com/user-attachments/assets/8f23a2a7-9ed6-4e76-b169-022455ec8093" />
+
+
 ### 2) Revenue Category / Logistics
 
 Two complementary views to separate *mix shift* from *account movement*:
@@ -59,6 +62,8 @@ Two complementary views to separate *mix shift* from *account movement*:
 * **Revenue by category** (CM vs PM, change %, rolling averages)
 * **Top logistics companies** contributing to current performance
   **Use case:** spot whether performance is driven by category demand, pricing/mix, or provider-level movement.
+  
+<img width="1540" height="857" alt="Thiết kế chưa có tên" src="https://github.com/user-attachments/assets/5ea58cd5-c795-48c0-83c1-b2dca12b3588" />
 
 ### 3) Customer Breakdown (Contribution + Detail Table)
 
@@ -67,6 +72,8 @@ A contribution view plus a detailed table for root cause:
 * Customer contribution (e.g., pie/share view) to highlight concentration
 * Customer table showing CM/PM, Δ, % change, and rolling averages
   **Use case:** identify concentration risk and which customers drive overall results.
+  
+<img width="1558" height="872" alt="Thiết kế chưa có tên (1)" src="https://github.com/user-attachments/assets/20870463-22d2-451a-88d8-3b076af44594" />
 
 ### 4) Working Day Average (WDA) Analysis
 
@@ -75,6 +82,10 @@ A normalization view to make month comparisons fair:
 * Compares current month performance using **working-day adjusted revenue** vs 3/6/12-month baselines
   **Use case:** avoid false alarms caused purely by different numbers of working days.
 
+<img width="1507" height="851" alt="Thiết kế chưa có tên (2)" src="https://github.com/user-attachments/assets/a3b7219f-0fa1-45d7-b5d0-b4681cbd6f28" />
+
+
+
 ### 5) WA Suburb Breakdown + Map
 
 A geographic breakdown for WA:
@@ -82,6 +93,8 @@ A geographic breakdown for WA:
 * Table of suburb-level changes (CM vs PM + rolling averages)
 * Map/heat layer for spatial scanning
   **Use case:** detect regional growth/decline pockets and support territory/route planning conversations.
+
+<img width="1507" height="851" alt="Thiết kế chưa có tên (3)" src="https://github.com/user-attachments/assets/637f611f-47f1-4358-856b-bba0dc187c3c" />
 
 ---
 
