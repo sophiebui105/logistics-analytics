@@ -116,12 +116,3 @@ The dashboard supported actions such as:
 
 ---
 
-## Confidentiality / Portfolio Version
-
-This work used internal CTI data. For my portfolio, I only share:
-
-* **Anonymised screenshots (customer names & values masked)** or
-* A **synthetic replica dashboard** (same logic + visuals, fake data)
-
-If you want, I can tailor this write-up into a **portfolio-ready one-pager** (with a short “Impact” section and 5–6 bullet highlights) and match the wording exactly to the pages you want to showcase.
-
